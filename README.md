@@ -28,6 +28,7 @@ A minimalist fullstack web application for saving and organizing book quotes. Bu
 
 ### Prerequisites
 
+
 - Node.js 18+ 
 - npm or yarn
 - Supabase account
@@ -202,5 +203,4 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 
 ---
 
-**Paper Echo** - Save your favorite book quotes and keep them organized. 📚✨
 >>>>>>> master
